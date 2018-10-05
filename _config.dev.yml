@@ -1,0 +1,33 @@
+title: Merr Merkle
+subtitle: "A different kind of crypto campaign to make a small difference"
+description: "Buidling better schools in Africa with crypto!"
+author: Merry Merkle
+language: en
+timezone: UTC
+
+url: https://andytudhope.github.io
+root: /merrymerkle.africa/
+permalink: news/:year/:month/:day/:title/
+archive_dir: news
+code_dir: downloads/code
+new_post_name: :year-:month-:day-:title.md # File name of new posts
+post_asset_folder: true
+per_page: 0
+
+theme: navy
+deploy:
+  type: git
+  branch: gh-pages
+  name: status-im-auto
+  repo: git@github.com:andytudhope/merrymerkle.africa.git
+
+theme_config:
+    favicon: img/logo-32.png
+
+highlight:
+  enable: true
+  line_number: false
+
+disqus_shortname: hexojs
+twitter: cryptowanderer
+github: andytudhope

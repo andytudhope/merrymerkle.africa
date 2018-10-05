@@ -1,0 +1,71 @@
+menu:
+  docs: Docs
+  developer_tools: Developer Tools
+  extensions: Extensions
+  wip: WIP
+  search: Search
+  blog: Blog
+  tutorials: Tutorials
+
+index:
+  get_started: Get started
+
+page:
+  contents: Contents
+  back_to_top: Back to Top
+  improve: Improve this doc
+  prev: Prev
+  next: Next
+  last_updated: "Last updated: %s"
+
+sidebar:
+  docs:
+    use_status: Use Status
+    who_we_are: Who We Are
+    contributor_guide: Contributor Guide
+    ens_usernames: ENS Usernames
+    FAQs: FAQs
+    build_status: Build Status
+    quick_start: Building Status
+    build_status_go: Building Status-Go
+    status_react_structure: Status-React Structure
+    send_transaction_flow: Send Transaction Flow
+    build_status_desktop: Build Status Desktop
+    introduction_desktop: Getting Started
+    building_desktop: Building Desktop
+    status_node: Status Node
+    run_status_node: Run Status Node
+    troubleshooting: Troubleshooting
+    using_breakpad: Using Breakpad
+    jenkins_pipeline: Using Jenkins
+    nimbus: Nimbus
+    testing: Testing
+    introduction_testing: How We Test
+    report_a_bug: Report a Bug
+    security: Security
+    security_champions: Security Champions
+    security_existing_features: Existing Features
+    security_experiment: Security Experiment
+    security_process: Our Process
+    security_threat_modeling: Threat Modeling
+    security_github_labels: Github Labels
+    security_sensitive_data: Sensitive Data
+
+  developer_tools:
+    connecting_to_web3: Connecting to web3
+    access_an_ethereum_provider: Accessing Web3 Providers
+    detecting_status: Detecting Status
+    optimised_for_status: Optimizing for Mobile
+    assets_guidelines: Assets and Guidelines
+    js_api: JavaScript API
+    http_debugging: How to Test & Debug
+    submitting_to_status: Submitting Your DApp
+    submit_to_status: How To Submit
+    troubleshooting_dapps: Troubleshooting
+    embark: Embark
+    status_extensions: Status Extensions [WIP]
+    intro_extensions: Introduction
+
+  tutorials:
+    extensions: Extensions
+    your_first_chat_extension: Your First Chat Extension
