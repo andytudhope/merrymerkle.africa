@@ -13,6 +13,8 @@
         <h2 id="top-header">Give Freely, Receive Gracefully</h2>
         <p>Rumi once said "Speak a new language and the world will be a new world". Well, use these new linguistic primitives we're all building to send a message of hope to somewhere that could really use it.
         </p>
+        <p>We will be running the online campaign from the 10th to the 31st of December, 2018. There will also be an <a href="https://discuss.status.im/t/merry-merkle-goes-to-africa/296/3" target="_blank">in-person gathering</a> in Cintsa East, South Africa from the 10th - 17th December to help build a class and teach some children!
+        </p>
         <div class="work-items">
             <div class="work-item">
                 <div class="work-item-inner">

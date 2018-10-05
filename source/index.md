@@ -1,3 +1,3 @@
-title: Status Docs
+title: Merry Merkle
 layout: index
 ---

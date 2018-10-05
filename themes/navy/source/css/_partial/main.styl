@@ -1,4 +1,3 @@
-
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, a, abbr, acronym, address, big, cite, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
   margin: 0;
   padding: 0;
@@ -50,11 +49,8 @@ a{
 }
 
 /* ----------------------------------------------------------------------------------------------------
-
 Super Form Reset
-
 A couple of things to watch out for:
-
 - IE8: If a text input doesn't have padding on all sides or none the text won't be centered.
 - The default border sizes on text inputs in all UAs seem to be slightly different. You're better off using custom borders.
 - You NEED to set the font-size and family on all form elements
@@ -63,7 +59,6 @@ A couple of things to watch out for:
 - ::-webkit-file-upload-button selectors can't be used in the same selector as normal ones. FF and IE freak out.
 - IE: You don't need to fake inline-block with labels and form controls in IE. They function as inline-block.
 - By turning off ::-webkit-search-decoration, it removes the extra whitespace on the left on search inputs
-
 ----------------------------------------------------------------------------------------------------*/
 input,
 label,
@@ -927,10 +922,12 @@ body {
   color: #8D99A4;
   line-height: 24px;
   margin: 0 auto 12px auto;
+  text-align: left;
 }
 
 .section-header a {
-  color: #4564dc;
+  color: #000;
+  font-weight: 700;
   text-decoration: none;
   display: inline-flex;
   align-items: center;
