@@ -2,7 +2,7 @@
      {{ partial('partial/header') }}
     <div class="intro">
         <h1>#Buidling better schools in Africa with crypto!</h1>
-        <p>Join us in Cintsa East, South Africa to make the world a slightly better place for 100 children just trying to learn.</p>
+        <p>Join us in Cintsa East, South Africa to make the world a slightly better place for 100 children keen to learn.</p>
     </div>
     <div class="intro-pic">
         <img src="../merrymerkle.africa/img/south-africa.png" />
