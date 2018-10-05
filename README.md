@@ -4,7 +4,7 @@ Hello good people!
 
 Last year, some friends hosted something called [Merry Merkle](https://merrymerkle.com/). It was a Christmas donation campaign with a simple website and leaderboard that encouraged people from all over the world to donate a little crypto to those in need (in this case, it was a Children's Home in Toronto). They were very, very successful.
 
-I would like to propose that we do something similar this year at Status, and have just the place in mind which could really benefit from something like this.
+I would like to propose that we do something similar this year in Africa, and have just the place in mind which could really benefit from something like this.
 
 https://www.youtube.com/watch?v=jAUup82RAXU
 
