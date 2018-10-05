@@ -2973,9 +2973,11 @@ a.button.button--light:hover {
   color: #8d99a4;
   line-height: 24px;
   margin: 0 auto 12px auto;
+  text-align: left;
 }
 .section-header a {
-  color: #4564dc;
+  color: #000;
+  font-weight: 700;
   text-decoration: none;
   display: -webkit-inline-box;
   display: -moz-inline-box;
