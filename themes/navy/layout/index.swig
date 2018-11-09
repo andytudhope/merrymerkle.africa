@@ -5,7 +5,7 @@
         <p>Join us in Cintsa East, South Africa to make the world a slightly better place for 100 children keen to learn.</p>
     </div>
     <div class="intro-pic">
-        <img src="../merrymerkle.africa/img/south-africa.png" />
+        <img src="./img/south-africa.png" />
     </div>
 </div>
 <div class="home-wrap">
@@ -21,9 +21,9 @@
                     <h2>Donate</h2>
                     <p>Either scan the QR Code here with Status, or click the button to connect your wallet and donate Ether to African Angels.
                     </p>
-                    <a href="#">Connect Wallet<img src="../merrymerkle.africa/img/arrow.svg" /></a>
+                    <a href="#">Connect Wallet<img src="./img/arrow.svg" /></a>
                 </div>
-                <img class="work-item-image" src="../merrymerkle.africa/img/dapps.svg" />
+                <img class="work-item-image" src="./img/dapps.svg" />
             </div>
             <div class="work-item">
                 <iframe class="work-item-image work-item-image-right" src="https://www.youtube.com/embed/jAUup82RAXU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
