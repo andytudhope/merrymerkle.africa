@@ -21,12 +21,13 @@
 
 .logo {
 	display: block;
-	width: 146px;
-	height: 56px;
-	background-image: url(../img/status-logo.svg);
-	background-size: 146px;
+	width: 28px;
+	height: 28px;
+	background-size: 56px;
+	background-color: #000;
 	background-position: center;
 	background-repeat: no-repeat;
+	border-radius: 50%;
 }
 
 .mobile-nav-wrap {
