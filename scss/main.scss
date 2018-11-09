@@ -138,6 +138,47 @@ h5 {
   font-size: 12px;
 }
 
+.cards {
+  display: flex;
+  width: 100%;
+}
+
+.cards .card {
+  width: 100%;
+}
+
+.cards.cards--three {
+  flex-wrap: wrap;
+}
+
+.cards.cards--three .card {
+  width: 33.3%;
+}
+
+.cards.cards--three .card-inner {
+  margin: 12px;
+}
+
+.cards.cards--three .card:nth-child(3n+1) .card-inner { /* 1, 4, 7...*/
+  margin-left: 0
+}
+
+.cards.cards--three .card:nth-child(3n+3) .card-inner { /* 3, 6, 9...*/
+  margin-right: 0
+}
+
+.cards.cards--three .card:nth-child(1) .card-inner,
+.cards.cards--three .card:nth-child(2) .card-inner,
+.cards.cards--three .card:nth-child(3) .card-inner {
+  margin-top: 0;
+}
+
+.cards.cards--three .card:nth-last-child(3) .card-inner,
+.cards.cards--three .card:nth-last-child(2) .card-inner,
+.cards.cards--three .card:nth-last-child(1) .card-inner {
+  margin-bottom: 0;
+}
+
 .latest-posts{
   .post{
     margin-bottom: 24px;
