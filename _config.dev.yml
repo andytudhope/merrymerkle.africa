@@ -5,8 +5,8 @@ author: Merry Merkle
 language: en
 timezone: UTC
 
-url: https://merrymerkle.africa/
-root: /
+url: https://andytudhope.github.io
+root: /merrymerkle.africa/
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
 code_dir: downloads/code
