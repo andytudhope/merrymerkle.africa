@@ -16,7 +16,7 @@ I think it would be great to set up a similar site and drive to what happened wi
 
 ## Details
 
-1. The website will go live at the beginning of December, and there is the chance to help remotely get it all set up, QA'ed, secured and ready to accept donations.
+1. The website will go live in November, and there is the chance to help remotely get it all set up, QA'ed, secured and ready to accept donations.
 1. The online campaign will run from December 10th - December 31st 2018.
 2. We will be holding the in-person event in Cintsa East, South Africa from the 10th to the 17th of December.
 2. We will be using an exchange in South Africa and some private volunteers to help get the crypto from Ether into Rand. We can only really accept ETH at this stage. If anyone has any bright ideas about how to use SNT as well, they would be welcome cc @rramos @barry @ricardo3 @yessin
@@ -27,3 +27,13 @@ I think it would be great to set up a similar site and drive to what happened wi
 The school really, really needs this donation campaign. They'll be opening a high school next year and, so far, have no donors for it. It is completely funded by donations due to the, frankly, shocking nature of education in rural South Africa and so this project being a success is really important for them
 
 You'll get to spend a week in the most beautiful part of South Africa (which is really saying something) having magical beach bonfires, building classrooms, meeting kids, listening to beautiful songs and generally making a small difference. I can't think of anything better...
+
+## Testing The Site Locally
+
+Make sure you have node.js installed first.
+
+1. Open Terminal and navigate to the project root directory,
+2. Run `npm install`,
+3. Run `./node_modules/.bin/gulp build`,
+4. In another terminal, run `./node_modules/.bin/hexo serve`,
+5. This prevents the need for any global installs, and will allow you to have live reloading for any changes you are making.
