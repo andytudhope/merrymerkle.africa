@@ -12,7 +12,7 @@
         </ul>
     </div>
     <div class="header-right">
-        <a href="https://status.im/get/" class="button">Join Status Chat</a>
+        <a href="https://get.status.im/chat/public/merrymerkle" class="button">Join Status Chat</a>
     </div>
 </div>
 
