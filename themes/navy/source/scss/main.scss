@@ -76,13 +76,13 @@ a {
   background-color: rgba(249, 250, 254, 1);
 }
 
-.button.button--blue, a.button.button--blue {
-  background-color: $colorBlue;
+.button.button--black, a.button.button--black {
+  background-color: $colorBlack;
   color: $colorWhite;
 }
 
-.button.button--blue:hover, a.button.button--blue:hover {
-  background-color: rgba(58, 86, 210, 1)
+.button.button--black:hover, a.button.button--black:hover {
+  background-color: rgba(0,0,0,0.8)
 }
 
 .main-text {
@@ -174,7 +174,8 @@ h5 {
 /* New styles specific to Merry Merkle */
 
 .intro-wrap {
-  width: 1200px;
+  max-width: 1200px;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -182,8 +183,10 @@ h5 {
   padding-top: 150px;
   color: #fff;
   text-align: left;
-  width: 900px;
+  max-width: 900px;
+  width: 100%;
   float: left;
+  margin-left: 20px;
 }
 
 .intro-pic {
@@ -204,7 +207,8 @@ h5 {
   padding: 0 0 12px 0;
   font-weight: bold;
   line-height: 42px;
-  width: 600px;
+  max-width: 600px;
+  width: 100%;
 }
 
 .intro p {
@@ -213,7 +217,8 @@ h5 {
   line-height: 25px;
   opacity: .6;
   padding: 0 0 25px 0;
-  width: 600px;
+  max-width: 600px;
+  width: 100%;
 }
 
 .home-header {
@@ -245,13 +250,15 @@ h5 {
 }
 
 .section-header h2 {
-  width: 800px;
+  max-width: 800px;
+  width: 100%;
   margin: 12px auto;
   text-align: center;
 }
 
 .section-header p {
-  width: 600px;
+  max-width: 600px;
+  width: 100%;
   margin: 8px auto;
   color: #8d99a4;
   text-align: left;
@@ -280,12 +287,14 @@ h5 {
 
 .section-header .card-text h2 {
   text-align: left;
-  width: 400px;
+  max-width: 400px;
+  width: 100%;
   margin: 0;
 }
 
 .section-header .card-text p {
-  width: 400px;
+  max-width: 400px;
+  width: 100%;
   margin: 12px 0;
 }
 
@@ -297,6 +306,44 @@ h5 {
 }
 
 
+@media (max-width: 650px) {
+  .intro h1, .intro p {
+    max-width: 400px;
+  }
 
+  .section-cards {
+    margin: 0 auto;
+  }
 
+  .card-image {
+    width: 100%;
+    text-align: center;
+    margin: 50px 0;
+  }
 
+  .card-text {
+    width: 100%;
+  }
+
+  .clear-margin {
+    margin-top: 50px; 
+  }
+
+  .section-header {
+    min-height: 1100px;
+  }
+
+  .section-header .card-text p {
+    max-width: 600px;
+  }
+}
+
+@media (max-width: 400px) {
+  .intro h1, .intro p {
+    max-width: 300px;
+  }
+
+  .section-header {
+    min-height: 1300px;
+  }
+}
