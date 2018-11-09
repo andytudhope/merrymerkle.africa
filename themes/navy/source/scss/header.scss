@@ -21,10 +21,11 @@
 
 .logo {
 	display: block;
-	width: 35px;
-	height: 35px;
-	background-size: 70px;
+	width: 28px;
+	height: 28px;
+	padding: 10px;
 	background-color: $colorWhite;
+	background-image: url(../img/logo-black.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 	border-radius: 50%;
