@@ -423,6 +423,10 @@ h5 {
   margin: 20px 100px 0;
 }
 
+.donate-head {
+  padding-top: 50px;
+}
+
 @media (max-width: 450px) {
   .intro h1, .intro p {
     max-width: 300px;
@@ -440,5 +444,9 @@ h5 {
   .button--learn {
     width: 80%;
     margin: 20px 0 0;
+  }
+
+  .donate-head {
+    padding-top: 30px;
   }
 }
