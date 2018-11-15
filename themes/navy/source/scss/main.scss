@@ -97,6 +97,20 @@ a {
   line-height: 26px;
 }
 
+.steps {
+  color: $colorGray;
+  font-size: 16px;
+  line-height: 26px;
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 16px;
+  list-style: decimal;
+}
+
+.steps, li {
+  margin-bottom: 8px;
+}
+
 h1 {
   font-weight: 700;
   font-size: 38px;
@@ -340,11 +354,22 @@ h5 {
   margin: 12px 0;
 }
 
-.sections {
+.section-leaderboard {
   background: $colorBg;
   border-radius: 20px;
   padding: 40px;
   margin: 40px 0;
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+.section-info {
+  background: $colorWhite;
+  border-radius: 20px;
+  padding: 40px;
+  margin: 40px 0;
+  max-width: 1200px;
+  margin: 20px auto;
 }
 
 
