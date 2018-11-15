@@ -28,7 +28,7 @@
             <li><a href="https://status.im/contribute/" class="">Contribute</a></li>
         </ul>
         <div class="mobile-nav-footer">
-            <a href="#" class="button button--black">Join Status Chat</a>
+            <a href="https://get.status.im/chat/public/chat" class="button button--black">Join Status Chat</a>
         </div>
     </div>
     <div class="mobile-nav-overlay"></div>
