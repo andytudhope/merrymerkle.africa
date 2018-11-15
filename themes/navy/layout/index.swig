@@ -27,13 +27,13 @@
             </div>
             <div class="clear-margin"></div>
             <div class="card-text">
-                <h2>See Who You're Giving To</h2>
+                <h2>Make A Real Difference</h2>
                 <p>"A purely peer-to-peer version of electronic cash would allow online payments to be sent directly 
                 from one party to another without going through a financial institution."</p>
                 <p>What can be said about the <em>intention</em> of a <a href="https://bitcoin.org/bitcoin.pdf">technical essay</a> that begins with such words? For those of us who live with
                 and have grown up experiencing failed or failing political, social and financial systems, it certainly has nothing to do with which big corporate
                 is "looking into blockchain" now, or how some rich guy in the Global North feels about Ethereum.</p>
-                <p>Perhaps the article in the Genesis Block points to something different, some other way of creating, securing and distributing value. Perhaps
+                <p>Perhaps The Time article</a> in the Genesis Block points to something different, some other way of creating, securing and distributing value. Perhaps
                 part of what that means is the very human work of creating and distributing value in ways which promote
                 equality of access and understanding.</p>
             </div>
