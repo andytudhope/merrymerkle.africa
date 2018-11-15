@@ -21,17 +21,36 @@
             </div>
             <div class="card-text">
                 <h2>See Who You're Giving To</h2>
-                <p>African Angels actively supports just over 100 children, giving them an education otherwise inaccessible in rural South Africa, as well as a safe, welcoming and nourishing environment in which to grow up to be better citizens.
+                <p><a href="http://sponsoranangel.org">African Angels</a> actively supports just over 100 children, giving them an education otherwise inaccessible in rural South Africa, as well as a safe, welcoming and nourishing environment in which to grow up to be better citizens.
                 </p>
+                <a href="./learn_more_about_the_angels.pdf" class="button button--black button--learn">Learn More</a>
             </div>
             <div class="clear-margin"></div>
             <div class="card-text">
-                
+                <h2>See Who You're Giving To</h2>
+                <p>"A purely peer-to-peer version of electronic cash would allow online payments to be sent directly 
+                from one party to another without going through a financial institution."</p>
+                <p>What can be said about the <em>intention</em> of a <a href="https://bitcoin.org/bitcoin.pdf">technical essay</a> that begins with such words? For those of us who live with
+                and have grown up experiencing failed or failing political, social and financial systems, it certainly has nothing to do with which big corporate
+                is "looking into blockchain" now, or how some rich guy in the Global North feels about Ethereum.</p>
+                <p>Perhaps the article in the Genesis Block points to something different, some other way of creating, securing and distributing value. Perhaps
+                part of what that means is the very human work of creating and distributing value in ways which promote
+                equality of access and understanding.</p>
+            </div>
+            <div class="card-image">
+                <img class="trust-img" src="./img/trust_fruit.png" />
+                <p class="note">One of the books we'll be reading with Angels in December, care of Consensys</p>
+            </div>
             </div>
         <div class="clear-margin"></div>
         <h2>Donate</h2>
-                <p>Either scan the QR Code here with Status, or click the button to connect your wallet and donate Ether to African Angels.
-                </p>
+        <p>It's not just about crypto: we'll be in South Africa from the 10-17th December, building a new class for the school to accommodate the beginnings of a high school next year. We'll be
+        reading with <a href="./term_3_newsletter.pdf">these incredible children</a>, giving them basic lessons on computers, laying bricks with them, learning a bit of isiXhosa and generally learning more about the local 
+        culture and needs.</p>
+        <p>Everyone is getting involved too! Huge thanks to <a href="https://bounties.network">Bounties Network</a>, Consensys and Simona Pop for organising the amazing book you see above,
+        which we'll also be taking along with us as gifts for the children.</p>
+            <p>Either scan the QR Code here with Status, or click the button to connect your wallet and donate Ether to African Angels.
+            </p>
             <div class="donate-wrap">
                 <iframe class="resp-iframe" src="./donate-frame/index.html"  height="100%" frameborder="0" ></iframe>
 

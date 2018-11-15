@@ -304,6 +304,7 @@ h5 {
   color: #8d99a4;
   text-align: left;
   font-size: 16px;
+  line-height: 22px;
 }
 
 .section-cards {
@@ -379,16 +380,6 @@ h5 {
   }
 }
 
-@media (max-width: 400px) {
-  .intro h1, .intro p {
-    max-width: 300px;
-  }
-
-  .section-header {
-    min-height: 1300px;
-  }
-}
-
 .leaderboard-wrap {
   position: relative;
   overflow: visible;
@@ -416,4 +407,38 @@ h5 {
   overflow-y: hidden;
   overflow: hidden;
   background-color: rgba(238, 242, 245, 1);
+}
+
+.trust-img {
+  width: 300px;
+  padding-left: 80px;
+}
+
+.note {
+  font-size: 12px !important;
+}
+
+.button--learn {
+  width: 30%;
+  margin: 20px 100px 0;
+}
+
+@media (max-width: 450px) {
+  .intro h1, .intro p {
+    max-width: 300px;
+  }
+
+  .section-header {
+    min-height: 1300px;
+  }
+
+  .trust-img {
+    width: 250px;
+    padding-left: 0px;
+  }
+
+  .button--learn {
+    width: 80%;
+    margin: 20px 0 0;
+  }
 }
