@@ -14,7 +14,7 @@
         <a class="icon-close mobile-nav-close" href="#"></a>
         <ul class="mobile-nav">
             <li><a href="https://our.status.im/">Blog</a></li>
-            <li><a href="/docs/">Docs</a></li>
+            <li><a href="https://status.im/docs/">Docs</a></li>
             <li class="item--dropdown item--to-show">
               <span>Projects</span>
               <ul class="mobile-sub-nav">
