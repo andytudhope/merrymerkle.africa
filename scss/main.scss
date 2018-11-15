@@ -73,7 +73,7 @@ a {
 }
 
 .button:hover, a.button:hover {
-  background-color: rgba(249, 250, 254, 1);
+  background-color: white;
 }
 
 .button.button--black, a.button.button--black {
@@ -268,7 +268,7 @@ h5 {
   max-width: 1200px;
   padding: 60px 0;
   text-align: center;
-  background: #fff;
+  background: rgba(238, 242, 245, 1)f;
   border-radius: 5px;
 }
 
@@ -304,6 +304,7 @@ h5 {
   color: #8d99a4;
   text-align: left;
   font-size: 16px;
+  line-height: 22px;
 }
 
 .section-cards {
@@ -318,7 +319,7 @@ h5 {
 
 .card-image--right {
   text-align: right;
-  padding-right: 60px;
+  // padding-right: 60px;
 }
 
 .card-text {
@@ -387,4 +388,37 @@ h5 {
   .section-header {
     min-height: 1300px;
   }
+}
+
+.leaderboard-wrap {
+  position: relative;
+  overflow: visible;
+  padding-top: 56.25%;
+  height: 100%;
+}
+
+.donate-wrap {
+  position: relative;
+  overflow: hidden;
+  overflow-y: hidden;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 50%;
+  height: 100%;
+}
+
+.resp-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  overflow-y: hidden;
+  overflow: hidden;
+  background-color: rgba(238, 242, 245, 1);
+}
+
+.trust-img {
+  width: 400px;
 }
