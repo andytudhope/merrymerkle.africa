@@ -97,6 +97,20 @@ a {
   line-height: 26px;
 }
 
+.steps {
+  color: $colorGray;
+  font-size: 16px;
+  line-height: 26px;
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 16px;
+  list-style: decimal;
+}
+
+.steps, li {
+  margin-bottom: 8px;
+}
+
 h1 {
   font-weight: 700;
   font-size: 38px;
@@ -340,11 +354,22 @@ h5 {
   margin: 12px 0;
 }
 
-.sections {
+.section-leaderboard {
   background: $colorBg;
   border-radius: 20px;
   padding: 40px;
   margin: 40px 0;
+  max-width: 1200px;
+  margin: 20px auto;
+}
+
+.section-info {
+  background: $colorWhite;
+  border-radius: 20px;
+  padding: 40px;
+  margin: 40px 0;
+  max-width: 1200px;
+  margin: 20px auto;
 }
 
 
@@ -380,16 +405,6 @@ h5 {
   }
 }
 
-@media (max-width: 400px) {
-  .intro h1, .intro p {
-    max-width: 300px;
-  }
-
-  .section-header {
-    min-height: 1300px;
-  }
-}
-
 .leaderboard-wrap {
   position: relative;
   overflow: visible;
@@ -420,5 +435,43 @@ h5 {
 }
 
 .trust-img {
-  width: 400px;
+  width: 300px;
+  padding-left: 80px;
+}
+
+.note {
+  font-size: 12px !important;
+}
+
+.button--learn {
+  width: 30%;
+  margin: 20px 100px 0;
+}
+
+.donate-head {
+  padding-top: 50px;
+}
+
+@media (max-width: 450px) {
+  .intro h1, .intro p {
+    max-width: 300px;
+  }
+
+  .section-header {
+    min-height: 1300px;
+  }
+
+  .trust-img {
+    width: 250px;
+    padding-left: 0px;
+  }
+
+  .button--learn {
+    width: 80%;
+    margin: 20px 0 0;
+  }
+
+  .donate-head {
+    padding-top: 30px;
+  }
 }
