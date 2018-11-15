@@ -26,13 +26,15 @@
             </div>
             <div class="clear-margin"></div>
             <div class="card-text">
-                <h2>Donate</h2>
+                
+            </div>
+        <div class="clear-margin"></div>
+        <h2>Donate</h2>
                 <p>Either scan the QR Code here with Status, or click the button to connect your wallet and donate Ether to African Angels.
                 </p>
-                <a href="#">Connect Wallet</a>
-            </div>
-            <div class="card-image card-image--right">
-                <img src="./img/dapps.svg" />
+            <div class="donate-wrap">
+                <iframe class="resp-iframe" src="./donate-frame/index.html"  height="100%" frameborder="0" ></iframe>
+
             </div>
         </div>
     </div>
@@ -42,7 +44,7 @@
             <p>See which addresses, organisations, and people have given the most:</p>
         </div>
         <div class="leaderboard-wrap">
-            
+            <iframe class="resp-iframe" src="./leaderboard/index.html"   frameborder="0" ></iframe>
         </div>
     </div>
 </div>
