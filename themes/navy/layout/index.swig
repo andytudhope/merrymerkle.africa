@@ -61,7 +61,7 @@
                 from one party to another without going through a financial institution."</p>
                 <p>What can be said about the <em>intention</em> of a <a href="https://bitcoin.org/bitcoin.pdf">technical essay</a> that begins with such words? For those of us who live with
                 and have grown up experiencing failed or failing political, social and financial systems, it may come to mean a different kind of hope.</p>
-                <p>Perhaps The Time article</a> in the Genesis Block points to something different, some other way of creating, securing and distributing value. Perhaps
+                <p>Perhaps <a href="https://www.reddit.com/r/Bitcoin/comments/9xdbr7/chancellor_on_brink_of_second_bailout_for_banks/">The Times article</a> in the Genesis Block points to something different, some other way of creating, securing and distributing value. Perhaps
                 part of what that means is the very human work of creating and distributing value in ways which promote
                 equality of access and understanding.</p>
             </div>
@@ -87,7 +87,7 @@
                     <li>We will use the <a href="https://cryptowat.ch/markets/bitfinex/snt/eth">midmarket rate on Bitfinex</a> to calculate SNT/ETH exchanges rates daily at 6PM SAST.</li>
                     <li>We will maintain a <a href="https://docs.google.com/spreadsheets/d/1Y5-EO-F4RmHFrl8Xzu2JgzQSbShfRLAlXLSle649gzo/edit?usp=sharing">public spreadsheet</a> of these values and the amount donated daily.</li>
                     <li>We have taken reasonable precautions: the address below is a multisignature wallet, used across the industry.</li>
-                    <li>This site and the information on it are, to be the best of our knowledge, suitably secure.</li>
+                    <li>This site and the information on it are, to the best of our knowledge, suitably secure.</li>
                 </ol>
             </ul> 
         </div>
