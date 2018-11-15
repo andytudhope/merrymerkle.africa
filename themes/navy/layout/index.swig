@@ -14,7 +14,7 @@
         <p><a href="https://merrymerkle.com">Merry Merkle</a> is now an annual event! Much wow! Especially after all the fun we had <a href="https://medium.com/truebit/merrymerkle-how-the-crypto-community-raised-200k-for-a-homeless-youth-shelter-in-10-days-876477460f22">last year</a>.</p>
         <p>Rumi once said "Speak a new language and the world will be a new world". Well, use these new linguistic primitives we're all building to send a message of hope to somewhere that could really use it.
         </p>
-        <p>We will be running the online campaign from the 10th to the 31st of December, 2018. There will also be an <a href="https://discuss.status.im/t/merry-merkle-goes-to-africa/296/3" target="_blank">in-person gathering</a> in Cintsa East, South Africa from the 10th - 17th December to help build a class and teach some children!
+        <p>We will be running the online campaign from the 1-31st of December, 2018. There will also be an <a href="https://discuss.status.im/t/merry-merkle-goes-to-africa/296/3" target="_blank">in-person gathering</a> in Cintsa East, South Africa from the 10th - 17th December to help build a class and teach some children!
         </p>
         <div class="section-cards">
             <div class="card-image">
@@ -46,7 +46,6 @@
     <div class="section-leaderboard">
         <div class="inner-header">
             <h2>Leaderboard</h2>
-            <p>See which addresses, organisations, and people have given the most:</p>
         </div>
         <div class="leaderboard-wrap">
             <iframe class="resp-iframe" src="./leaderboard/index.html"   frameborder="0" ></iframe>
