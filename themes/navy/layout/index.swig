@@ -38,7 +38,7 @@
                 Browse to this site with <a href="https://get.status.im/browse/https://merrymerkle.africa">Status</a>, scan the QR code if you already have Status installed, or install <a href="https://metamask.io">MetaMask</a>. You will see a button and message field pop up that allows you to donate to African Angels.
             </p>
             <div class="donate-wrap">
-                <iframe class="resp-iframe" src="./donate-frame/index.html" height="100%" frameborder="0"></iframe>
+                <iframe class="resp-iframe-donate" src="./donate-frame/index.html" frameborder="0"></iframe>
             </div>
         </div>
     </div>
