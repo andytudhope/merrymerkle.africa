@@ -34,8 +34,11 @@
             culture and needs.</p>
             <p>Everyone is getting involved too! Huge thanks to <a href="https://bounties.network">Bounties Network</a>, Consensys and Simona Pop for organising the amazing book you see above,
             which we'll also be taking along with us as gifts for the children.</p>
-            <p>This campaign will accept ETH, SNT and DAI. Any other token sent to the address will be burnt. 
-                Browse to this site with <a href="https://get.status.im/browse/https://merrymerkle.africa">Status</a>, scan the QR code if you already have Status installed, or install <a href="https://metamask.io">MetaMask</a>. You will see a button and message field pop up that allows you to donate to African Angels.
+            <p>This campaign will accept ETH, SNT and DAI. 
+                Browse to this site with <a href="https://get.status.im/browse/https://merrymerkle.africa">Status</a>, 
+                scan the QR code if you already have Status installed, 
+                or install <a href="https://metamask.io">MetaMask</a>. 
+                You will see a button and message field pop up that allows you to donate to African Angels.
             </p>
             <div class="donate-wrap">
                 <iframe class="resp-iframe-donate" src="./donate-frame/index.html" frameborder="0"></iframe>
@@ -81,7 +84,8 @@
                     <li>We will calculate exchange prices daily based on liquid global markets, and make weekly payments into the school's account.</li>
                     <li>Proofs of these payments will be provided on this website.</li>
                     <li>We will use the <a href="https://www.bloomberg.com/quote/USDZAR:CUR">midmarket rate on Bloomberg</a> to calculate USD/ZAR exchanges rates daily at 6PM SAST.</li>
-                    <li>We will use the <a href="https://cryptowat.ch/markets/bitfinex/eth/usd">midmarket rate on Bitfinex</a> to calculate ETH/USD exchanges rates daily at 6PM SAST.</li>
+                    <li>We are using the <a href="https://etherscan.io/address/0x729D19f657BD0614b4985Cf1D82531c67569197B">live, decentralised MakerDAO feed</a> to calculate ETH/USD exchanges rates daily at 6PM SAST.</li>
+                    <li>Behind the scenes, that smart contract is fed by 14 individual oracles. You can <a href="https://makerdao.com/feeds">look here</a> to see what each one is reporting.</li>
                     <li>DAI will be converted at 1 USD, as always ;)</li>
                     <li>We will use the <a href="https://cryptowat.ch/markets/bitfinex/snt/eth">midmarket rate on Bitfinex</a> to calculate SNT/ETH exchanges rates daily at 6PM SAST.</li>
                     <li>We will maintain a <a href="https://docs.google.com/spreadsheets/d/1Y5-EO-F4RmHFrl8Xzu2JgzQSbShfRLAlXLSle649gzo/edit?usp=sharing">public spreadsheet</a> of these values and the amount donated daily.</li>
